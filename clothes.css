@@ -4,6 +4,7 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to right,#5145ba,#ff6699,#e5f5d5);
     background-size: 200% 200%;
+    width:100%;
  
 
     margin: 0;
@@ -18,6 +19,7 @@ header {
     background-color:rgba(12, 37, 104, 0.397);;
     color: #070707;
     padding: 10px 0;
+     width:100%;
     font-family:Georgia, 'Times New Roman', Times, serif;
 
 
